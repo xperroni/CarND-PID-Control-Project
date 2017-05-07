@@ -1,0 +1,5 @@
+cmakepatch.txt
+build/
+simulator/simulator
+simulator/simulator_Data
+simulator/*.zip
